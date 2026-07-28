@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <g id="Group_123" data-name="Group 123" transform="translate(-757 -1086)">
+    <g id="Group_119" data-name="Group 119" transform="translate(757 1086)">
+      <g id="Group_115" data-name="Group 115">
+        <g id="Group_107" data-name="Group 107">
+          <g id="Group_106" data-name="Group 106">
+            <circle id="Ellipse_36" data-name="Ellipse 36" cx="100" cy="100" r="100" fill="#e3741f"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_120" data-name="Group 120" transform="translate(809.857 1155.771)">
+      <g id="Group_113" data-name="Group 113" transform="translate(-2.92 -2.706)">
+        <g id="Group_112" data-name="Group 112">
+          <g id="Group_111" data-name="Group 111">
+            <rect id="Rectangle_9" data-name="Rectangle 9" width="93.091" height="62.061" rx="8" transform="translate(3.513 3.676)" fill="#fff"/>
+            <path id="Rectangle_9_-_Outline" data-name="Rectangle 9 - Outline" d="M6.316-.5H86.577a6.809,6.809,0,0,1,6.816,6.787V55.309A6.809,6.809,0,0,1,86.577,62.1H6.316A6.809,6.809,0,0,1-.5,55.309V6.287A6.809,6.809,0,0,1,6.316-.5ZM86.577,61.3a6.008,6.008,0,0,0,6.014-5.988V6.287A6.008,6.008,0,0,0,86.577.3H6.316A6.008,6.008,0,0,0,.3,6.287V55.309A6.008,6.008,0,0,0,6.316,61.3Z" transform="translate(3.612 3.776)" fill="#e3741f"/>
+            <g id="Group_110" data-name="Group 110">
+              <g id="Group_109" data-name="Group 109">
+                <g id="Group_108" data-name="Group 108">
+                  <path id="Path_29" data-name="Path 29" d="M101.493,105.751,53.772,71.435l2.535-3.013,45.186,32.493,45.186-32.493,2.535,3.013Z" transform="translate(-51.431 -66.252)" fill="#e3741f"/>
+                  <path id="Path_29_-_Outline" data-name="Path 29 - Outline" d="M100.914,107.19l-50.062-36,4.606-5.475L100.914,98.4l45.456-32.688,4.606,5.475ZM55.535,70.607l45.38,32.633,45.38-32.633-.464-.552-44.915,32.3L56,70.055Z" transform="translate(-50.852 -65.715)" fill="#e3741f"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

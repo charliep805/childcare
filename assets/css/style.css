@@ -894,6 +894,20 @@ footer a:focus {
     line-height: 1.15;
 }
 
+.privacy-policy{
+    padding-bottom: var(--padding-large);
+}
+
+.privacy-policy h1{
+    color: var(--color-orange);
+    padding-top: var(--padding-medium);;
+    margin-bottom: var(--padding-small)
+}
+
+.privacy-policy h2{
+    margin: 40px 0px 20px 0px;
+}
+
 @media (max-width: 768px) {
     :root {
         --font-h1: 2.25rem;
@@ -950,6 +964,10 @@ footer a:focus {
 
     .section-title {
         margin-bottom: 20px;
+    }
+
+    .privacy-policy h2{
+        margin: 20px 0px 20px 0px;
     }
 
     .nav-links {
@@ -1013,6 +1031,18 @@ footer a:focus {
     .logo img {
         width: 70px;
         height: 70px;
+    }
+
+    main{
+        margin-top: 115px;
+    }
+    
+    header{
+        height: 115px;
+    }
+
+    header.header-scrolled{
+        height: 95px;
     }
 
     header.header-scrolled .logo img {

@@ -4,18 +4,20 @@
   
   <url>
     <loc>https://pazfamilychildcare.com/index.html</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pazfamilychildcare.com/index.html" />
     <xhtml:link rel="alternate" hreflang="es" href="https://pazfamilychildcare.com/index-es.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pazfamilychildcare.com/index.html" />
   </url>
 
   <url>
     <loc>https://pazfamilychildcare.com/index-es.html</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pazfamilychildcare.com/index.html" />
     <xhtml:link rel="alternate" hreflang="es" href="https://pazfamilychildcare.com/index-es.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pazfamilychildcare.com/index.html" />
   </url>
 
 </urlset>
